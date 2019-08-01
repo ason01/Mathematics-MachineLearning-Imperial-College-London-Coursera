@@ -5,8 +5,8 @@ LINEAR ALGEBRA(https://www.coursera.org/learn/linear-algebra-machine-learning):
 
 Assignment 1 : [IDENTIFYING SPECIAL MATRICES](https://tocgeopfrhzuckjtvjttex.coursera-apps.org/notebooks/IdentifyingSpecialMatrices.ipynb) 
 
-Assignment 2 : GRAM-SCHIMDT PROCESS
+Assignment 2 : [GRAM-SCHIMDT PROCESS](https://tocgeopfrhzuckjtvjttex.coursera-apps.org/notebooks/GramSchmidtProcess.ipynb)
 
-Assignment 3 : REFLECTING BEAR
+Assignment 3 : [REFLECTING BEAR](https://tocgeopfrhzuckjtvjttex.coursera-apps.org/notebooks/ReflectingBear.ipynb)
 
-Assignment 4 : PAGE RANK
+Assignment 4 : [PAGE RANK](https://tocgeopfrhzuckjtvjttex.coursera-apps.org/notebooks/PageRank.ipynb)
