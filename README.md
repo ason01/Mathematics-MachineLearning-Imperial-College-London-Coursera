@@ -3,7 +3,7 @@ This repo contains all the Python codes for the programming tasks which I solved
 
 LINEAR ALGEBRA(https://www.coursera.org/learn/linear-algebra-machine-learning):  
 
-Assignment 1 : IDENTIFYING SPECIAL MATRICES 
+Assignment 1 : [IDENTIFYING SPECIAL MATRICES](https://tocgeopfrhzuckjtvjttex.coursera-apps.org/notebooks/IdentifyingSpecialMatrices.ipynb) 
 
 Assignment 2 : GRAM-SCHIMDT PROCESS
 
